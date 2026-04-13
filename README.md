@@ -1,11 +1,13 @@
-🚀 Omar Francisco Arellano Ganem
+<img width="412" height="20" alt="image" src="https://github.com/user-attachments/assets/c0291520-7ecf-47b8-9efd-55e3cfeeffeb" />🚀 Omar Francisco Arellano Ganem
 Senior AI Engineer | MLOps | LLM Systems | RAG | Scalable AI
 
-📍 Mexico City Metropolitan Area
+📍 Mexico City, Mexico
+📱 +52 1 55 5404 1258
 📧 supax82@gmail.com
 
-🔗 https://www.linkedin.com/in/omar-francisco-arellano-ganem/
-📱 Phone: +52 1 55 5404 1258
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-francisco-arellano-ganem/)<img width="412" height="20" alt="image" src="https://github.com/user-attachments/assets/eb553cb2-0723-433d-893e-ae69b014b80b" />
+
+
 👨‍💻 About Me
 
 I design and deploy production-grade AI systems that solve real-world problems — transforming complex models into scalable, reliable, and high-impact solutions.
@@ -31,14 +33,3 @@ Delivering measurable business impact
 🧠 Improved model correctness by 31% in code generation systems
 ⚙️ Cut latency by 55% (420ms → 190ms) through model optimization
 🔥 Scaled training to 256 TPU v4 pods, reducing training time by >50%
-
-🤝 Let’s Collaborate
-
-I’m interested in:
-
-AI platform engineering
-LLM / Agentic systems
-Production-scale ML infrastructure
-High-impact AI products
-
-💬 Feel free to reach out if you're building something ambitious.
