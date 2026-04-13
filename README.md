@@ -1,16 +1,44 @@
-## Hi there 👋
+🚀 Omar Francisco Arellano Ganem
+Senior AI Engineer | MLOps | LLM Systems | RAG | Scalable AI
 
-<!--
-**peak-omar/peak-omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Mexico City Metropolitan Area
+📧 supax82@gmail.com
 
-Here are some ideas to get you started:
+🔗 https://www.linkedin.com/in/omar-francisco-arellano-ganem/
+📱 Phone: +52 1 55 5404 1258
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and deploy production-grade AI systems that solve real-world problems — transforming complex models into scalable, reliable, and high-impact solutions.
+
+With 10+ years of experience, I’ve evolved from data engineering and backend systems into a senior AI engineer specializing in LLMs, deep learning, and MLOps.
+
+I focus on:
+
+Shipping real AI products, not prototypes
+Building scalable, observable, and reliable systems
+Delivering measurable business impact
+⚡ Core Expertise
+🤖 Machine Learning & Deep Learning
+🧠 Large Language Models (LLMs) & Prompt Engineering
+🔎 Retrieval-Augmented Generation (RAG) & Embeddings
+⚙️ MLOps (Docker, Kubernetes, Kubeflow)
+📊 Data Engineering & Backend Systems
+🔄 AI Automation & Workflow Optimization
+🏆 Key Achievements
+🚀 Built a multimodal generative AI system serving 1M+ users with 99.9% uptime
+📈 Improved user satisfaction by +22% using RLHF pipelines
+⚡ Reduced ML deployment errors by 80% via CI/CD automation
+🧠 Improved model correctness by 31% in code generation systems
+⚙️ Cut latency by 55% (420ms → 190ms) through model optimization
+🔥 Scaled training to 256 TPU v4 pods, reducing training time by >50%
+
+🤝 Let’s Collaborate
+
+I’m interested in:
+
+AI platform engineering
+LLM / Agentic systems
+Production-scale ML infrastructure
+High-impact AI products
+
+💬 Feel free to reach out if you're building something ambitious.
