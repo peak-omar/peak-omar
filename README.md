@@ -7,28 +7,65 @@ Senior AI Engineer | MLOps | LLM Systems | RAG | Scalable AI
 
 🔗 LinkedIn: https://www.linkedin.com/in/omar-francisco-arellano-ganem/
 
-👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm AKIO ITO</h1>
+<h3 align="center">A passionate Aerospace AI Engineer specialized in AI.</h3>
 
-I design and deploy production-grade AI systems that solve real-world problems — transforming complex models into scalable, reliable, and high-impact solutions.
+📫 How to reach me: @axon0823
+## 👨‍💻 About Me
 
-With 10+ years of experience, I’ve evolved from data engineering and backend systems into a senior AI engineer specializing in machine learning, deep learning, and LLM-driven systems.
+I work across the full lifecycle of AI systems — from **problem formulation and algorithm design** to **model training, fine-tuning, evaluation, and deployment**.  
+My background combines **machine learning, deep learning, computer vision**, and **data science**, with a strong emphasis on clarity, robustness, and practical impact.
 
-I focus on:
+I enjoy working on problems where **theory meets production**, especially when models must be explainable, scalable, and trustworthy.
 
-Shipping real AI products, not prototypes
-Building scalable, observable, and reliable systems
-Delivering measurable business impact
-⚡ Core Expertise
-🤖 Machine Learning & Deep Learning
-🧠 Large Language Models (LLMs) & Prompt Engineering
-🔎 Retrieval-Augmented Generation (RAG) & Embeddings
-⚙️ MLOps (Docker, Kubernetes, Kubeflow)
-📊 Data Engineering & Backend Systems
-🔄 AI Automation & Workflow Optimization
-🏆 Key Achievements
-🚀 Built a multimodal generative AI system serving 1M+ users with 99.9% uptime
-📈 Improved user satisfaction by +22% using RLHF pipelines
-⚡ Reduced ML deployment errors by 80% via CI/CD automation
-🧠 Improved model correctness by 31% in code generation systems
-⚙️ Reduced latency by 55% (420ms → 190ms) through optimization
-🔥 Scaled training to 256 TPU v4 pods, cutting training time by >50%
+---
+
+## 🔬 Areas of Experience
+
+- **Model Design & Training**
+  - Classical ML and modern Deep Learning architectures
+  - Supervised, unsupervised, and representation learning
+  - Model evaluation, optimization, and error analysis
+
+- **Fine-Tuning & Adaptation**
+  - Task-specific fine-tuning
+  - Data curation and augmentation strategies
+  - Performance vs. cost trade-off optimization
+
+- **Computer Vision**
+  - Image classification, detection, segmentation
+  - Feature extraction and representation learning
+  - End-to-end CV pipelines
+
+- **Algorithms & Mathematics**
+  - Algorithm design and optimization
+  - Linear algebra, probability, and statistics
+  - Complexity-aware and data-efficient solutions
+
+- **Data Analysis & Data Science**
+  - Exploratory data analysis (EDA)
+  - Statistical reasoning and insight generation
+  - Turning raw data into actionable decisions
+
+---
+
+## 🧠 Philosophy
+
+> *Strong algorithms, clean data, and clear thinking matter more than hype.*
+
+I value:
+- Simplicity over unnecessary complexity  
+- Reproducibility and interpretability  
+- Calm, structured problem-solving  
+
+## 🌍 Location
+
+📍 Japan 
+🌐 Open to global, remote collaboration
+
+---
+
+## 📫 Contact
+
+If you’d like to discuss AI systems, research ideas, or practical applications, feel free to reach out.
+
