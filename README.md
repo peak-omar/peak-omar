@@ -1,16 +1,6 @@
-🚀 Omar Francisco Arellano Ganem
-Senior AI Engineer | MLOps | LLM Systems | RAG | Scalable AI
+<h1 align="center">Hi 👋, I'm Omar Francisco</h1>
+<h3 align="center">Generative AI & Machine learning & Computer Vision Engineer</h3>
 
-📍 Mexico City, Mexico
-📱 +52 1 55 5404 1258
-📧 supax82@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/omar-francisco-arellano-ganem/
-
-<h1 align="center">Hi 👋, I'm AKIO ITO</h1>
-<h3 align="center">A passionate Aerospace AI Engineer specialized in AI.</h3>
-
-📫 How to reach me: @axon0823
 ## 👨‍💻 About Me
 
 I work across the full lifecycle of AI systems — from **problem formulation and algorithm design** to **model training, fine-tuning, evaluation, and deployment**.  
@@ -58,14 +48,12 @@ I value:
 - Reproducibility and interpretability  
 - Calm, structured problem-solving  
 
-## 🌍 Location
+🚀 Omar Francisco Arellano Ganem
+Senior AI Engineer | MLOps | LLM Systems | RAG | Scalable AI
 
-📍 Japan 
-🌐 Open to global, remote collaboration
+📍 Mexico City, Mexico
+📱 +52 1 55 5404 1258
+📧 supax82@gmail.com
 
----
-
-## 📫 Contact
-
-If you’d like to discuss AI systems, research ideas, or practical applications, feel free to reach out.
+🔗 LinkedIn: https://www.linkedin.com/in/omar-francisco-arellano-ganem/
 
